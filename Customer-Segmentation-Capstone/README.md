@@ -129,7 +129,6 @@ This analysis demonstrates how customer analytics can be used to:
 
 * `finalproject.py` — Main project workflow
 * `withtheaddfeatures.py` — Extended feature engineering experiments
-* `screenshots/` — Project visualizations and results
 * `customer_behavior_presentation.pdf` — Final presentation
 
 ---
